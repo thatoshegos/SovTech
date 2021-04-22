@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BackendAPI.Controllers.OpenAPIController.GetCategories">
+            <summary>
+            Retrieves all joke categories
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BackendAPI.Controllers.OpenAPIController.GetPeople">
+            <summary>
+            Retrieves all people
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BackendAPI.Controllers.OpenAPIController.Search(System.String)">
+            <summary>
+            Search by phrase
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

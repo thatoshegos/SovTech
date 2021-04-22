@@ -1,0 +1,123 @@
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\BackendAPI.exe
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\BackendAPI.deps.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\BackendAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\BackendAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\BackendAPI.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\BackendAPI.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackendAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackendAPI.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackendAPI.styles.css
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Businesslayer.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Datalayer.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Businesslayer.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Datalayer.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\BackendAPI.xml
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\libman.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.exe
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.deps.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\RestSharp.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Businesslayer.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Datalayer.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Businesslayer.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Datalayer.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.json
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\libman.json
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.exe
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.deps.json
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.runtimeconfig.json
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.runtimeconfig.dev.json
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\RestSharp.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Businesslayer.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Datalayer.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Businesslayer.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Datalayer.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.AssemblyInfo.cs
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackendAPI.StaticWebAssets.Manifest.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackendAPI.StaticWebAssets.xml
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackendAPI.styles.css
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csproj.CopyComplete
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.genruntimeconfig.cache
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.Development.json
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.json
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\libman.json
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.exe
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.deps.json
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.runtimeconfig.json
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.runtimeconfig.dev.json
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\BackendAPI.pdb
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\RestSharp.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Businesslayer.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Datalayer.dll
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Businesslayer.pdb
+C:\Dev\SovTech\Backend\BackendAPI\bin\Debug\netcoreapp3.1\netcoreapp3.1\Datalayer.pdb
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csprojAssemblyReference.cache
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.AssemblyInfoInputs.cache
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.AssemblyInfo.cs
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csproj.CoreCompileInputs.cache
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackendAPI.StaticWebAssets.Manifest.cache
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackendAPI.StaticWebAssets.xml
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackendAPI.styles.css
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.RazorTargetAssemblyInfo.cache
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.csproj.CopyComplete
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.dll
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.pdb
+C:\Dev\SovTech\Backend\BackendAPI\obj\Debug\netcoreapp3.1\BackendAPI.genruntimeconfig.cache

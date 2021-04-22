@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LjUgFlCn4Rnk3Q2HRsBuH2GQ2GBoqrgn/4exEmELtzaLOq5yId9347hji+hg0DcGrD8q8mYXzoO8V8mfz7BmJw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\SovTech\\Backend\\Datalayer\\Datalayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

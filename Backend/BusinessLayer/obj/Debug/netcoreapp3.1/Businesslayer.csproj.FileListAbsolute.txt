@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.deps.json
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Datalayer.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Datalayer.pdb
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.dll
+C:\Users\Administrator\Desktop\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.deps.json
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Datalayer.dll
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Datalayer.pdb
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfo.cs
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Compressed\Thato Technical Test\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CopyComplete
+C:\Dev\SovTech\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.deps.json
+C:\Dev\SovTech\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.dll
+C:\Dev\SovTech\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Businesslayer.pdb
+C:\Dev\SovTech\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Datalayer.dll
+C:\Dev\SovTech\Backend\Businesslayer\bin\Debug\netcoreapp3.1\Datalayer.pdb
+C:\Dev\SovTech\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csprojAssemblyReference.cache
+C:\Dev\SovTech\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfoInputs.cache
+C:\Dev\SovTech\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.AssemblyInfo.cs
+C:\Dev\SovTech\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CoreCompileInputs.cache
+C:\Dev\SovTech\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.csproj.CopyComplete
+C:\Dev\SovTech\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.dll
+C:\Dev\SovTech\Backend\Businesslayer\obj\Debug\netcoreapp3.1\Businesslayer.pdb
