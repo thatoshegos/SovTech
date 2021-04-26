@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-md-6 col-sm-10 col-xs-12 center-col">
                 <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of StarWarsPeople">
-                    <li><span>Number of people: </span><p>{{dataItem.count}}</p>
+                    <li>
                     <p><span>Height: </span>{{dataItem.height}}</p>
                     <p><span>Mass: </span>{{dataItem.mass}}</p>
                     <p><span>Year of birth</span>{{dataItem.birth_year}}</p>
@@ -24,9 +24,7 @@
                     <p><span>Films: </span>{{dataItem.films}}</p>
                     <p><span>Species: </span>{{dataItem.species}}</p>
                     <p><span>Vehicle: </span>{{dataItem.vehicle}}</p>
-                    <p><span>StarShips: </span>{{dataItem.starships}}
-
-                    
+                    <p><span>StarShips: </span>{{dataItem.starships}}</p></li> 
                 </ul>
             </div>
         </div>
