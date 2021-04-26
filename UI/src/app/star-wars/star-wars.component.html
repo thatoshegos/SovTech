@@ -10,11 +10,25 @@
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-10 col-xs-12 center-col">
-                <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of getStarWarsPeopleList">
-                    <li>{{dataItem}}</li>
-                     
+                <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of StarWarsPeople">
+                    <li><p>{{dataItem.count}}</p>
+                    <p>{{dataItem.height}}</p>
+                    <p>{{dataItem.mass}}</p>
+                    <p>{{dataItem.birth_year}}</p>
+                    <p>{{dataItem.created}}</p>
+                    <p>{{dataItem.edited}}</p>
+                    <p>{{dataItem.eye_color}}</p>
+                    <p>{{dataItem.homeworld}}</p>
+                    <p>{{dataItem.skin_color}}</p>
+                    <p>{{dataItem.url}}</p>
+                    <p>{{dataItem.films}}</p>
+                    <p>{{dataItem.species}}</p>
+                    <p>{{dataItem.vehicle}}</p>
+                    <p>{{dataItem.starships}}
+
+                    
                 </ul>
             </div>
         </div>
     </div>
-</section>
+</section> 

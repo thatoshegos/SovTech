@@ -1,3 +1,4 @@
+import { Joke } from './../joke';
 import { Component, Input, OnInit } from '@angular/core';
 import {SharedService} from 'src/app/shared.service'
 
@@ -7,9 +8,8 @@ import {SharedService} from 'src/app/shared.service'
   styleUrls: ['./chuck-swapi.component.css']
 })
 export class ChuckSwapiComponent implements OnInit {
-
+  
   constructor(private service: SharedService) { }
-
   ChuckJokeCategories: any = [];
   ChuckJokeByCategory : any = [];
   
@@ -17,7 +17,6 @@ export class ChuckSwapiComponent implements OnInit {
   ngOnInit(): void {
     
     this.getChuckJokes();
-    
   }
  getChuckJokes(){
    this.service.getChuckJokeCategory().subscribe(data => {
@@ -26,7 +25,20 @@ export class ChuckSwapiComponent implements OnInit {
  }
  getJokebyCategory(query){
    this.service.getJokesByCategory(query).subscribe(data =>{
-     this.ChuckJokeByCategory = data;
+     this.ChuckJokeByCategory = data["categories"];
+     console.log(data);
+       
    })
  }
+ itemClick(item: any): void{
+      this.service.getJokesByCategory(item).subscribe(data => {
+        this.ChuckJokeByCategory = data["categories"];
+          console.log(data)
+        },(error) =>{
+           console.log("Thato"+ error)
+       })
+       
+ }
+
+ 
 }

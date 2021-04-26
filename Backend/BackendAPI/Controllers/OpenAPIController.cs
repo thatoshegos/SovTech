@@ -1,9 +1,7 @@
 ﻿using Businesslayer.Services;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace BackendAPI.Controllers
 {
@@ -44,6 +42,7 @@ namespace BackendAPI.Controllers
         /// <returns></returns>
         [HttpGet]
         [Route("api/random/category")]
+        
         public ActionResult JokeByCategory([FromQuery] string query)
         {
             if (String.IsNullOrEmpty(query))

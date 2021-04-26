@@ -1,0 +1,39 @@
+<section class="wow fadeIn bg-extra-dark-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 col-sm-12 col-xs-12 center-col text-center margin-100px-bottom xs-margin-40px-bottom">
+                <div class="position-relative overflow-hidden width-100">
+                    <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase">Search</span>
+                </div>
+            </div>
+        </div>
+        <form id="contact-form-2" action="javascript:void(0)" method="GET">
+            <div class="row">
+                <div class="col-md-8 wow fadeIn center-col text-center">
+                    <div id="success-contact-form-2" class="no-margin-lr"></div>
+                    <textarea name="search-area" id="search"  placeholder="Your text" class="input-border-bottom" [(ngModel)]="search"></textarea>
+                    <button id="contact-us-button-2" type="submit" class="btn btn-small btn-deep-pink margin-30px-top xs-margin-three-top" 
+                    (click)="itemClick(search)">Search</button>
+                </div>
+            </div>
+        </form>
+    </div>     
+</section>
+<section class="wow fadeIn bg-extra-dark-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7 col-sm-12 col-xs-12 center-col text-center margin-100px-bottom xs-margin-40px-bottom">
+                <div class="position-relative overflow-hidden width-100">
+                    <span class=" text-outside-line-full alt-font font-weight-600 text-uppercase">Search Results</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-10 col-xs-12 center-col">
+                <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of SearchResults">
+                    <li>{{dataItem.value}}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

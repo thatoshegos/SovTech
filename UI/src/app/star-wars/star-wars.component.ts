@@ -1,24 +1,33 @@
+
 import { Component, OnInit } from '@angular/core';
 import {SharedService} from 'src/app/shared.service'
-
+//import {Results} from '../shared.service'
 @Component({
   selector: 'app-star-wars',
   templateUrl: './star-wars.component.html',
   styleUrls: ['./star-wars.component.css']
 })
+
+
 export class StarWarsComponent implements OnInit {
 
   constructor(private service: SharedService) { }
 
-  StarWarsPeople: any = [];
+ public StarWarsPeople: any[] =[];
 
   ngOnInit(): void {
 
     this.getStarWarsPeopleList();
   }
   getStarWarsPeopleList(){
-    this.service.getChuckJokeCategory().subscribe(data => {
-      this.StarWarsPeople = data; })
-    }
+    this.service.getStarWarsPeople().subscribe(data => { 
+      this.StarWarsPeople = data["results"];
+     
+        console.log(this.StarWarsPeople)
+        
+      });
 
-}
+
+
+
+    }  }
