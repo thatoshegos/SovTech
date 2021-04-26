@@ -23,19 +23,13 @@ export class ChuckSwapiComponent implements OnInit {
      this.ChuckJokeCategories = data; 
    })
  }
- getJokebyCategory(query){
-   this.service.getJokesByCategory(query).subscribe(data =>{
-     this.ChuckJokeByCategory = data["categories"];
-     console.log(data);
-       
-   })
- }
+
  itemClick(item: any): void{
       this.service.getJokesByCategory(item).subscribe(data => {
         this.ChuckJokeByCategory = data["categories"];
           console.log(data)
         },(error) =>{
-           console.log("Thato"+ error)
+           console.log( error)
        })
        
  }

@@ -11,20 +11,20 @@
         <div class="row">
             <div class="col-md-6 col-sm-10 col-xs-12 center-col">
                 <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of StarWarsPeople">
-                    <li><p>{{dataItem.count}}</p>
-                    <p>{{dataItem.height}}</p>
-                    <p>{{dataItem.mass}}</p>
-                    <p>{{dataItem.birth_year}}</p>
-                    <p>{{dataItem.created}}</p>
-                    <p>{{dataItem.edited}}</p>
-                    <p>{{dataItem.eye_color}}</p>
-                    <p>{{dataItem.homeworld}}</p>
-                    <p>{{dataItem.skin_color}}</p>
-                    <p>{{dataItem.url}}</p>
-                    <p>{{dataItem.films}}</p>
-                    <p>{{dataItem.species}}</p>
-                    <p>{{dataItem.vehicle}}</p>
-                    <p>{{dataItem.starships}}
+                    <li><span>Number of people: </span><p>{{dataItem.count}}</p>
+                    <p><span>Height: </span>{{dataItem.height}}</p>
+                    <p><span>Mass: </span>{{dataItem.mass}}</p>
+                    <p><span>Year of birth</span>{{dataItem.birth_year}}</p>
+                    <p><span>Created at: </span>{{dataItem.created}}</p>
+                    <p><span>Edited at :</span>{{dataItem.edited}}</p>
+                    <p><span>Eye Color: </span>{{dataItem.eye_color}}</p>
+                    <p><span>Home World: </span>{{dataItem.homeworld}}</p>
+                    <p><span>Skin Color: </span>{{dataItem.skin_color}}</p>
+                    <p><span>Url :</span>{{dataItem.url}}</p>
+                    <p><span>Films: </span>{{dataItem.films}}</p>
+                    <p><span>Species: </span>{{dataItem.species}}</p>
+                    <p><span>Vehicle: </span>{{dataItem.vehicle}}</p>
+                    <p><span>StarShips: </span>{{dataItem.starships}}
 
                     
                 </ul>

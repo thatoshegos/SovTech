@@ -34,11 +34,11 @@
             <div class="col-md-6 col-sm-10 col-xs-12 center-col">
                 <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of ChuckJokeByCategory">
                     <li>
-                        <p>{{dataItem.created_at}}</p>
-                        <p>"{{dataItem.icon_url}}</p>
-                        <p>{{dataItem.id}}</p>
-                        <p>{{dataItem.updated_at}}</p>
-                        <p>{{dataItem.value}}</p></li>
+                        <p><span>Created at: </span>{{dataItem.created_at}}</p>
+                        <p><span>Icon url: </span>"{{dataItem.icon_url}}</p>
+                        <p><span>ID: </span>{{dataItem.id}}</p>
+                        <p><span>Updated at: </span>{{dataItem.updated_at}}</p>
+                        <p><span>value: </span>{{dataItem.value}}</p></li>
                 </ul>
             </div>
         </div>

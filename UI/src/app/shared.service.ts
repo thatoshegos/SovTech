@@ -35,12 +35,6 @@ export class SharedService {
         'Access-Control-Allow-Origin':'*'
       })
            let options = {headers: headers}
-    return this.http.get<any>("https://localhost:44353/api/random/category?query=" + query).pipe(
-      map((data: Joke[]) =>{
-        return data;
-      }), catchError( error => {
-        return throwError( 'Something went wrong!' );
-      })
-    );
+    return this.http.get<any>("https://localhost:44353/api/random/category?query=" + query); 
   } 
 }
