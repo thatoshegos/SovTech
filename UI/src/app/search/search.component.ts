@@ -17,9 +17,8 @@ export class SearchComponent implements OnInit {
   itemClick(item: any): void{
     this.service.getSearches(item).subscribe(data => {
         this.SearchResults = data["result"];
-console.log(this.SearchResults);
       },(error) =>{
-         console.log("Thato"+ error)
+         console.log(error)
      })
   }
 }

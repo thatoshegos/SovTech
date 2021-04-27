@@ -21,13 +21,7 @@ export class StarWarsComponent implements OnInit {
   }
   getStarWarsPeopleList(){
     this.service.getStarWarsPeople().subscribe(data => { 
-      this.StarWarsPeople = data["results"];
-     
-        console.log(this.StarWarsPeople)
-        
+      this.StarWarsPeople = data["results"];  
       });
-
-
-
-
-    }  }
+    } 
+   }

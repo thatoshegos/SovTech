@@ -26,8 +26,7 @@ export class ChuckSwapiComponent implements OnInit {
 
  itemClick(item: any): void{
       this.service.getJokesByCategory(item).subscribe(data => {
-        this.ChuckJokeByCategory = data["categories"];
-          console.log(data)
+        this.ChuckJokeByCategory = data["value"];
         },(error) =>{
            console.log( error)
        })

@@ -1,47 +1,36 @@
-
 <section class="wow fadeIn bg-extra-dark-gray">
-    <div class="container">
-        <div class="row">
+    <div class="container tab-style4">
+        <div class="row bg-extra-dark-gray">
             <div class="col-md-7 col-sm-12 col-xs-12 center-col text-center margin-100px-bottom xs-margin-40px-bottom">
                 <div class="position-relative overflow-hidden width-100">
-                    <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase">Joke Categories</span>
+                    <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase deep-pink">Joke Categories</span>
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-6 col-sm-10 col-xs-12 center-col">
-                <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of ChuckJokeCategories">
-
-                    <li >
-                        <a (click)="itemClick(dataItem)">{{dataItem}}</a>
-                    </li>
-                     
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="wow fadeIn bg-extra-dark-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-7 col-sm-12 col-xs-12 center-col text-center margin-100px-bottom xs-margin-40px-bottom">
-                <div class="position-relative overflow-hidden width-100">
-                    <span class=" text-outside-line-full alt-font font-weight-600 text-uppercase">Joke By Selected Category</span>
+        <div class="row equalize xs-equalize-auto">
+            <div class="col-md-2 col-sm-3 col-xs-12 no-padding-right">
+                <div class="display-table width-100 height-100">
+                    <div class=" vertical-align-middle">
+                        <!-- start tab navigation -->
+                        <ul class="nav nav-tabs alt-font text-uppercase text-small display-inherit font-weight-600
+                        " *ngFor = "let dataItem of ChuckJokeCategories">
+                            <li class="active"><a href="#tab-four1" data-toggle="tab" (click)="itemClick(dataItem)">{{dataItem}}</a></li>
+                        </ul>
+                        <!-- end tab navigation -->
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6 col-sm-10 col-xs-12 center-col">
-                <ul class="no-padding list-style-4 list-style-color" *ngFor = "let dataItem of ChuckJokeByCategory">
-                    <li>
-                        <p><span>Created at: </span>{{dataItem.created_at}}</p>
-                        <p><span>Icon url: </span>"{{dataItem.icon_url}}</p>
-                        <p><span>ID: </span>{{dataItem.id}}</p>
-                        <p><span>Updated at: </span>{{dataItem.updated_at}}</p>
-                        <p><span>value: </span>{{dataItem.value}}</p></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
+            <div class="col-md-10 col-sm-9 col-xs-12 no-padding-left">
+                <div class="tab-content">
+                    <!-- start tab content -->
+                    <div class="tab-pane med-text fade in active" id="tab-four1">
+                            <div class="col-md-5 col-sm-6 col-xs-12 display-table col-md-offset-1">
+                                <div class="display-table-cell vertical-align-middle">
+                                    <h6 class="alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase deep-pink">Random Joke</h6>
+                                    <span class="text-extra-large deep-pink margin-20px-bottom display-block">{{ChuckJokeByCategory}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end tab content -->
 
